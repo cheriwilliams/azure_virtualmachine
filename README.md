@@ -9,7 +9,7 @@ This tutorial will show the process of creating a Virtual Machine using Azure. <
 
 <h2>Environments and Technologies Used</h2>
 
--Microsoft Azure
+- Microsoft Azure
 
 <h2>Operating Systems Used </h2>
 
