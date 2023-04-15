@@ -1,9 +1,9 @@
 <p align="center">
-<img src="/>
+<img src=https://i.imgur.com/VJrNrnk.jpg/>
 </p>
 
 <h1>Creating a Virtual Machine using Microsoft Azure</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+This tutorial will show the process of creating a Virtual Machine using Azure. <br />
 
 
 
