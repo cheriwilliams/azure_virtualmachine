@@ -3,7 +3,7 @@
 </p>
 
 <h1>Creating a Virtual Machine using Microsoft Azure</h1>
-This tutorial will show the process of creating a Virtual Machine using Microsoft Azure. <br />
+This tutorial will show the process of creating a Windows 10 Virtual Machine using Microsoft Azure. <br />
 
 
 
