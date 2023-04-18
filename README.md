@@ -34,31 +34,47 @@ The above image shows a Resource Group being created for the Virutal Machine. We
 <img src=https://i.imgur.com/AKFIkuH.jpg/>
 </p>
 <p>
-We passed the Validation for the Resource Group, now we have to click create and the Resource group will be created.   
+We passed the Validation for the Resource Group, now we have to click create, which will be at the bottom of the screen and the Resource group will be created.   
 </p>
 <br />
 
 <p>
-<img src=https://i.imgur.com/JC9Alzl.jpg/>
+<img src=https://i.imgur.com/GFf0gmw.jpg/>
 </p>
 <p>
-In the above image, a significant amount of SSH (Secure Shell) traffic has spammed in Wireshark from the pwd command being entered into the command line. 
-</p>
-<br />
-
-<p>
-<img src=https://i.imgur.com/jAShtVx.jpg/>
-</p>
-<p>
-While using the command ipconfig /renew, a new IP address can be issued for the VM. A small amount of DHCP (Dynamic Host Configuration Protocol) traffic was generated from that command. 
+Our resource group has now been created as shown above, and now we can move onto creating the Windows 10 Virtual Machine.  
 </p>
 <br />
 
 <p>
-<img src=https://i.imgur.com/KmGufGo.jpg/>
+<img src=https://i.imgur.com/C1rt1Ov.jpg/>
 </p>
 <p>
-The above image shows the command nslookup being prompted to find the IP addresss for www.google.com, DNS (Domain Name System) traffic is then generated in Wireshark from nslookup. 
+For the next segment we are going to create the Virtual Machine, click Azure Virtual Machine to create the VM. 
+</p>
+<br />
+
+<p>
+<img src=https://i.imgur.com/rsNKk7T.jpg>
+</p>
+<p>
+Now we are in the section where we are actually creating the VM. We want to choose the Resource Group that we previously created and we can then name the VM machine. For the region, it is important to choose the same location we chose for our Resource group. For availability options, we want to click the "no infrastructure" option. Security should be standard and for our image we are creating a Windows 10 Virtual Machine. VM architecture will be preselected when we select the Windows 10 machine. 
+</p>
+<br />
+
+<p>
+<img src=https://i.imgur.com/7bBTt61.jpg/>
+</p>
+<p>
+  
+</p>
+<br />
+
+<p>
+<img src=/>
+</p>
+<p> 
+fgjkhjkdfgkjnfdkjgnfkgn sdkfngkjfngknkdkjnfdkjngkn kdfjngkjfdngkjnfdgkjnf
 </p>
 <br />
 
@@ -66,6 +82,6 @@ The above image shows the command nslookup being prompted to find the IP address
 <img src=/>
 </p>
 <p>
-RDP (Remote Desktop Protocol) traffic was constantly coming through Wireshark because of the active running connection of the Windows VM. 
-</p>
+fkgnfkjgnkjfngkjfng fdlkgnfkjgnkfjngkjfng
+</p?
 <br />
