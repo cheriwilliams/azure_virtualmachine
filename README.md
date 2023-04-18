@@ -82,7 +82,7 @@ The validation has passed, now we can click create and the VM will start creatin
 <img src=https://i.imgur.com/WfHXFKy.jpg>
 </p>
 <p>
-This process shows the VM being created, it may take a few minutes.
+This process shows the VM being created, it may take a few minutes to complete.
 </p>
 <br />
 
