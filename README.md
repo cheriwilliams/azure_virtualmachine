@@ -90,6 +90,6 @@ This process shows the VM being created, it may take a few minutes.
 <img src=https://i.imgur.com/4C5TNxe.jpg/>
 </p>
 <p>
-This image shows the final process in the step of creating the Windows 10 VM.   
+This image shows the final step in the process of creating the Windows 10 VM.   
 </p>
 <br />
