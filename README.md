@@ -20,7 +20,7 @@ This tutorial will show the process of creating a Windows 10 Virtual Machine usi
 - Create a Resource Group
 - Create a Virtual Machine
 
-<h2>Actions and Observations</h2>
+<h2>Actions and Configuration</h2>
 
 <p>
 <img src=https://i.imgur.com/kou3MyF.jpg/>
