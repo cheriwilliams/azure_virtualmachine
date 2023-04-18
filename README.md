@@ -17,29 +17,24 @@ This tutorial will show the process of creating a Windows 10 Virtual Machine usi
 
 <h2>High-Level Steps</h2>
 
-- 
-- 
-- 
-- 
-- 
--  
-- 
+- Create a Resource Group
+- Create Virtual Machine
 
 <h2>Actions and Observations</h2>
 
 <p>
-<img src=https://i.imgur.com/evLjJoU.jpg/>
+<img src=https://i.imgur.com/kou3MyF.jpg/>
 </p>
 <p>
-The above image shows traffic being pinged from Windows 10 Virtual Machine to Ubuntu Virtual Machine. The traffic between the two machines was successful showing 4 packets sent and 4 packets received. 
+The above image shows a Resource Group being created for the Virutal Machine. We have to choose the subscription for the Resource group and choose the name for the Resource group. Lastly we must choose the region that we want our data stored in. The region is usually based off of the location that we currently in. Click next to move towards the next step in the process.     
 </p>
 <br />
 
 <p>
-<img src=https://i.imgur.com/8uRELl2.jpg/>
+<img src=https://i.imgur.com/AKFIkuH.jpg/>
 </p>
 <p>
-Incoming traffic has been disabled from the firewall in Azure. Network Security Group was utilized and the security rule was applied to deny traffic and the ping request stopped. 
+We passed the Validation for the Resource Group, now we have to click create and the Resource group will be created.   
 </p>
 <br />
 
