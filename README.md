@@ -18,7 +18,7 @@ This tutorial will show the process of creating a Windows 10 Virtual Machine usi
 <h2>High-Level Steps</h2>
 
 - Create a Resource Group
-- Create Virtual Machine
+- Create a Virtual Machine
 
 <h2>Actions and Observations</h2>
 
@@ -66,22 +66,30 @@ Now we are in the section where we are actually creating the VM. We want to choo
 <img src=https://i.imgur.com/7bBTt61.jpg/>
 </p>
 <p>
-  
+In the above image we are finishing up the last few steps of creating the VM. We have to choose the size of 2 vcpus or 4 vcpus so that the machine can run efficiently. Create a username and password for login. Click the selected boxes, and confirm the licensing agreement at the bottom. Now we can click Review and create and wait for the validation to pass.    
 </p>
 <br />
 
 <p>
-<img src=/>
+<img src=https://i.imgur.com/Fle7AiV.jpg/>
 </p>
 <p> 
-fgjkhjkdfgkjnfdkjgnfkgn sdkfngkjfngknkdkjnfdkjngkn kdfjngkjfdngkjnfdgkjnf
+The validation has passed, now we can click create and the VM will start creating. 
 </p>
 <br />
 
 <p>
-<img src=/>
+<img src=https://i.imgur.com/WfHXFKy.jpg>
 </p>
 <p>
-fkgnfkjgnkjfngkjfng fdlkgnfkjgnkfjngkjfng
-</p?
+This process shows the VM being created, it may take a few minutes.
+</p>
+<br />
+
+<p>
+<img src=https://i.imgur.com/4C5TNxe.jpg/>
+</p>
+<p>
+This image shows the final process in the step of creating the Windows 10 VM.   
+</p>
 <br />
