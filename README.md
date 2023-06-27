@@ -63,23 +63,23 @@ Now we are in the section where we are actually creating the VM in Azure. We wan
 <br />
 
 <p>
-<img src=https://i.imgur.com/7bBTt61.jpg/>
+<img src="https://i.imgur.com/zFjA0Z4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the above image we are finishing up the last few steps of creating the VM. We have to choose the size of 2 vcpus or 4 vcpus so that the machine can run efficiently. Create a username and password for login. Click the selected boxes, and confirm the licensing agreement at the bottom. Now we can click Review and create and wait for the validation to pass.    
+In the above image we are finishing up the last few steps of creating the VM. We have to choose the size of 2 vcpus or 4 vcpus so that the machine can run efficiently. Create a username and password for login. Click the selected boxes, and confirm the licensing agreement at the bottom. Now we can click "Review and Create" and wait for the Validation to pass.    
 </p>
 <br />
 
 <p>
-<img src=https://i.imgur.com/Fle7AiV.jpg/>
+<img src="https://i.imgur.com/FtVI82D.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-The validation has passed, now we can click create and the VM will start creating. 
+The validation has passed, now we can click "Create" and the VM will start creating. 
 </p>
 <br />
 
 <p>
-<img src=https://i.imgur.com/WfHXFKy.jpg>
+<img src="https://i.imgur.com/Mg3tqSq.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This process shows the VM being created, it may take a few minutes to complete.
@@ -87,7 +87,7 @@ This process shows the VM being created, it may take a few minutes to complete.
 <br />
 
 <p>
-<img src=https://i.imgur.com/4C5TNxe.jpg/>
+<img src="https://i.imgur.com/RcgQ65v.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This image shows the final step in the process of creating the Windows 10 VM.   
