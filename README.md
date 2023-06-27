@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://i.imgur.com/VJrNrnk.jpg/>
+<img src="https://i.imgur.com/O5ShSW1.jpg">
 </p>
 
 <h1>Creating a Virtual Machine using Microsoft Azure</h1>
@@ -23,23 +23,23 @@ This tutorial will show the process of creating a Windows 10 Virtual Machine usi
 <h2>Actions and Configuration</h2>
 
 <p>
-<img src=https://i.imgur.com/kou3MyF.jpg/>
+<img src="https://i.imgur.com/sZ3rv4B.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above image shows a Resource Group being created for the Virutal Machine. We have to choose the subscription for the Resource group and choose the name for the Resource group. If you only have one subscription, it will already be pre-selected for you. Lastly we must choose the region that we want our resources stored in. The region is usually based off of the location that we are currently in. Click Next to move towards the next step in the process.     
-</p>
-<br />
-
-<p>
-<img src=https://i.imgur.com/AKFIkuH.jpg/>
-</p>
-<p>
-We passed the Validation for the Resource Group, now we have to click Create, which will be at the bottom of the screen and the Resource group will be created.   
+The above image shows a Resource Group being created for the Virutal Machine. We have to choose the subscription for the Resource group and choose the name for the Resource group. If you only have one subscription, it will already be pre-selected for you. Lastly we must choose the region that we want our resources stored in. The region is usually the location you are currently in. Click Next to move towards the next step in the process.     
 </p>
 <br />
 
 <p>
-<img src=https://i.imgur.com/GFf0gmw.jpg/>
+<img src="https://i.imgur.com/aXDocun.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+We passed the Validation for the Resource Group, now we have to click "Create", which will be at the bottom of the screen and the Resource group will be created.   
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/wnWeOgm.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Our resource group has been created as shown above, now we can move onto creating the Windows 10 Virtual Machine.  
@@ -47,7 +47,7 @@ Our resource group has been created as shown above, now we can move onto creatin
 <br />
 
 <p>
-<img src=https://i.imgur.com/C1rt1Ov.jpg/>
+<img src="https://i.imgur.com/alpGSXH.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This page shows where we can create the VM, click Azure Virtual Machine to create the VM. 
@@ -55,10 +55,10 @@ This page shows where we can create the VM, click Azure Virtual Machine to creat
 <br />
 
 <p>
-<img src=https://i.imgur.com/rsNKk7T.jpg>
+<img src="https://i.imgur.com/8hRMnZv.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we are in the section where we are actually creating the VM in Azure. We want to choose the Resource Group that we previously created and we can then name the VM machine. For the region, it is important to choose the same location we chose for our Resource group. For availability options, we want to click the "no infrastructure" option. Security should be standard and for our image, we are creating a Windows 10 Virtual Machine. VM architecture will be preselected when we select the Windows 10 machine. 
+Now we are in the section where we are actually creating the VM in Azure. We want to choose the Resource Group that we previously created and we can then name the VM machine. For the region, it is important to choose the same location we chose for our Resource group. For availability options, we want to click the "no infrastructure" option. Security should be standard and for our image, we are creating a Windows 10 Virtual Machine. VM architecture will be pre-selected when we select the Windows 10 machine. 
 </p>
 <br />
 
